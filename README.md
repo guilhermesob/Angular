@@ -1,1 +1,1 @@
-review of Basic and advanced concepts in Angular 
+revision of Basic and advanced concepts in Angular 
